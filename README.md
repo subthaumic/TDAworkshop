@@ -1,4 +1,4 @@
-# TDAworkshop_orga
+# TDAworkshop
 ## ToDo
 
 - [x] Michael fragt bei Anna und Christine möglichst nach einem Meeting-Termin für morgen an, sonst ggf. Freitag.
