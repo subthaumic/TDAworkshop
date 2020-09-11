@@ -4,13 +4,17 @@
 - [x] Michael fragt bei Anna und Christine möglichst nach einem Meeting-Termin für morgen an, sonst ggf. Freitag.
 - [x] github-Ordner für Kurs-Orga -- *Michael* <br>
   *Zugriffspunkt für Teilnehmer folgt später --> am besten kurs-website erstellen, auf github möglich*
-- [ ] template für Slides -- *Michael*
-- [ ] template für Übungen -- *Michael*
-- [ ] Kamera und Mikro via Structures? -- *Michael*
+- [ ] Raumfrage, im Moment auf Antwort von Fachschaft warten
+- [ ] template für Slides überarbeiten (e.g. Structures Logo)
+- [ ] template für Übungen überarbeiten/anpassen
+- [ ] Kamera und Mikro organisieren (z.B. URZ)
 - [ ] Wir müssen uns allesamt im Vorfeld sehr gut mit Scikit auseinandersetzen (eigene Benchmarks erstellen, damit TNs einen Eindruck bekommen können?). ;)
 - [ ] Ablauf finalisieren & PDF erstellen
-- [ ] Anmeldungsverwaltung (html-Formular? oder einfach via Email?)
+- [ ] Anmeldungsverwaltung (html oder google Formular? oder einfach via Email?)
 - [ ] Email zum Anmeldestart versenden
+- [ ] Kurs website veröffentlichen (github)
+- [ ] Feedback Formular
+- [ ] MNIST Database für TDA tauglich?
 
 
 ## Sonstiges
@@ -45,4 +49,7 @@ Vor Beginn des Workshops am 26.10. wird es bspw. von 12-13 Uhr eine 1-stündige 
 ### Datasets
 Daniel fragt bei Prof. Kees und Prof. Dullemond nach möglichen Testdaten für den 3. Workshop-Nachmittag nach. Andernfalls werden für diejenigen Teilnehmer ohne eigene Testdaten CMB-Daten inkl. Gaußscher Modell-Daten für den Vergleich beschafft (Planck Collab. etc.).
 
+Anna schlägt außerdem MNIST vor.
+
+### Übungszettel
 Übungszettel für die Tutorials werden im Oktober gemeinsam erstellt.
