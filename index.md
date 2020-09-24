@@ -5,10 +5,18 @@ Register [here](https://forms.gle/43vsBjNM1M4LffvA9)
 
 
 ## Corona Regulations / Format
-Some explanations
+Some explanations:
 
-and then
-- a list
+>fester Sitzplan an,
+>der zwingend einzuhalten ist. Gleiches gilt auch für die Regelung
+>der Ein- und Ausgänge.
+>Bitte stellen Sie am Eingang Desinfektionsmittel zur Verfügung.
+>Wenn sich die Teilnehmer im Raum bewegen, muss Maske getragen werden.
+>Wenn sie sitzen, kann die Maske abgenommen werden.
+
+>Bitte setzen sie alle Teilnehmer immer an den gleichen Platz.
+
+- and a list
 - of files
 
 ## Schedule
