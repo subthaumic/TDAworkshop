@@ -16,7 +16,7 @@ iframe test...
 
 ...
 
-![Schedule](assets/files/Schedule.pdf)
+[Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 
 
 ## Material and Exercises
