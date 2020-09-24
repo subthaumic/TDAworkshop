@@ -5,18 +5,18 @@ You can register [here](https://forms.gle/43vsBjNM1M4LffvA9)
 
 
 ## Corona Regulations / Format
+Some explanations
 
+and then
+- a list
+- of files
 
 ## Schedule
 on an extra site? ... would need navigation menu
 
-iframe test...
-
-<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">...Loading...</iframe>
-
-
-<embed src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" type="application/pdf" />
-
+<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="1024" height="800" frameborder="0" marginheight="0" marginwidth="0">
+...Loading...
+</iframe>
 
 [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 
