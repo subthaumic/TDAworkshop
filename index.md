@@ -1,7 +1,7 @@
 # Home
 
 ## Registration
-You can register [here](https://forms.gle/43vsBjNM1M4LffvA9)
+Register [here](https://forms.gle/43vsBjNM1M4LffvA9)
 
 
 ## Corona Regulations / Format
@@ -12,7 +12,7 @@ and then
 - of files
 
 ## Schedule
-on an extra site? ... would need navigation menu
+on an extra site? ... would need navigation menu ... Adjust fontsize in PDF slightly, add/remove details in schedule?
 
 <iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="1024" height="800" frameborder="0" marginheight="0" marginwidth="0">
 ...Loading...
@@ -24,9 +24,9 @@ on an extra site? ... would need navigation menu
 ## Material and Exercises
 put this on an extra site! ... need navigation menu
 
+eventually a list of Slides, Videos, Exercise Sheets, Datasets
 
 
 
-[Link](url)
 
 ![logo](assets/images/STRUCTURES_bunt.png)
