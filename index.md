@@ -1,4 +1,4 @@
-## Generalities
+# Home
 
 ## Registration
 You can register [here](https://forms.gle/43vsBjNM1M4LffvA9)
@@ -12,7 +12,7 @@ extra site? ... would need navigation menu
 
 iframe test...
 
-<iframe src="./assets/files/schedule.pdf" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">...Loading...</iframe>
+<iframe src="assets/files/schedule.pdf" width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">...Loading...</iframe>
 
 ...
 
@@ -20,7 +20,7 @@ iframe test...
 
 
 ## Material and Exercises
-extra site! ... need navigation menu
+put this on an extra site! ... need navigation menu
 
 
 
