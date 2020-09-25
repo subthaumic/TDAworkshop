@@ -1,16 +1,24 @@
-In this twelve-hour workshop the participant will be introduced to the main techniques utilized in topological data analysis and their mathematical background. Introductions to the Mapper algorithm and persistent homology will be succeeded by respective hands-on tutorial sessions. The workshop will conclude with an exploratory project of these methods on 'real data', which can be provided by the participants.
+In this twelve-hour workshop the participant will be introduced to the main techniques utilized in topological data analysis and their implementation provided by the python package [scikit-tda](https://scikit-tda.org/).
+Introductions to the Mapper algorithm and persistent homology will be complemented by respective hands-on tutorial sessions.
+The workshop will conclude with an exploratory project of these methods on 'real data', which can be provided by the participants.
 
 
 ## Registration
 Register [here](https://forms.gle/43vsBjNM1M4LffvA9)
 
+## Schedule
+<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">
+...Loading...
+</iframe>
 
-## Corona Regulations / Format
-This course will be held in an on-site/online hybrid form.
+Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
+
+
+## Corona Regulations
+The course will take place in an on-site/online hybrid form.
 There are up to 20 seats for on-site participation, which will be distributed in advance.
 
 The on-site course takes place in the CIP-Pool 2.105, Mathematikon INF 205, Heidelberg.
-Participants need to wear masks
 
 >fester Sitzplan an,
 >der zwingend einzuhalten ist. Gleiches gilt auch für die Regelung
@@ -23,15 +31,6 @@ Participants need to wear masks
 
 - and a list
 - of files
-
-## Schedule
-Adjust fontsize in PDF slightly, add/remove details in schedule?
-
-<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">
-...Loading...
-</iframe>
-
-Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 
 
 ## Material and Exercises
