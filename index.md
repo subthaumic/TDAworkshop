@@ -12,8 +12,8 @@ Lectures and tutorials will be accessible on Zoom for online participants.
 [Register now.](https://forms.gle/43vsBjNM1M4LffvA9)
 
 ## Schedule
-<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">
-...Loading...
+<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="680" height="500" frameborder="0" marginheight="0" marginwidth="0">
+...Loading Schedule...
 </iframe>
 
 Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
@@ -22,11 +22,10 @@ Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 ## Corona Regulations
 
 Please note the following rules of conduct for on-site participation:
-* 
-  - Please wear a mask when moving around; the mask can be removed when seated.
-  - There will be a seating plan
-  - On-site participants will need to provide personal data for contact tracking at the beginning of the course
-  - Since we will need to regularly ventilate the room, you might want to bring a sweater.
+
+> - Please wear a mask when moving around; the mask can be removed when seated.
+> - On-site participants will need to provide personal data for contact tracking at the beginning of the course
+> Since we will need to regularly ventilate the room, you might want to bring a sweater.
 
 You can find the official documents here:
 
