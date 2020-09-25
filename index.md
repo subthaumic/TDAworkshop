@@ -21,23 +21,20 @@ Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 
 ## Corona Regulations
 
-Please note the following rules of conduct for on-site participation:
-
-> - Please wear a mask when moving around; the mask can be removed when seated.
-> - On-site participants will need to provide personal data for contact tracking at the beginning of the course
-> Since we will need to regularly ventilate the room, you might want to bring a sweater.
-
-You can find the official documents here:
+Please note the following information regarding on-site participation:
 
 [Conditions of Admission and Participation](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Zutritts_und_Teilnahmeregelungen_Aushang_A3_EN_2020-08-11.pdf)\
 [Information on the Processing of Personal Data](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Datenschutzinformationen_Aushang_A3_EN_2020-08-11.pdf)\
 [Information Required from Persons Attending Classes](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Datenerhebung_Veranstaltungsteilnehmer_A4_EN_2020-08-11_1.pdf)
 
+
+  - Please wear a mask when moving around; the mask can be removed when seated.
+  - On-site participants will need to provide personal data for contact tracking at the beginning of the course
+  - Since we will need to regularly ventilate the room, you might want to bring a sweater.
+
+
 ## Material and Exercises
-put this on an extra site! ... need navigation menu
-
-eventually a list of Slides, Videos, Exercise Sheets, Datasets
-
+TBA
 
 
 
