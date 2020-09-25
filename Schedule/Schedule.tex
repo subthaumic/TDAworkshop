@@ -1,7 +1,9 @@
-\documentclass[a4paper,10pt]{report}
+\documentclass[a4paper, 14pt]{extarticle}
+%\documentclass[a4paper,12pt]{report}
 
+\usepackage[left=3cm,right=1cm,top=3cm,bottom=4cm,]{geometry}
+\usepackage{lmodern}
 
-%\usepackage{geometry}
 \usepackage{pdflscape}
 \usepackage{tikz}
 
@@ -20,36 +22,31 @@
 \begin{landscape}
 \thispagestyle{empty}
 
+
 \vspace*{-3cm}
 \begin{center}
 {\Huge Python Course \\ Topological Methods in Data Analysis \\[1.5ex]}
 {\Large Heidelberg University}\\[1ex]
-{\Large  October 26-28, 2020} \\
+{\Large  October 26th - 28th, 2020} \\
 \end{center}
 
 \tikz[remember picture,overlay]
-	\path (0,0) -- (21,3) node {\includegraphics[width=5cm,height=5cm,keepaspectratio]{../Offizielles/STRUCTURES_bunt.png}};
+	\path (0,0) -- (20,1.5) node {\includegraphics[width=5cm,height=5cm,keepaspectratio]{../Offizielles/STRUCTURES_bunt.png}};
 
 
-\vspace{2cm}
-
-\noindent
-The course takes place in the CIP pool (2.xxx) in Mathematikon. \\
-\textbf{Zoom-id: TBA}
-
-\vspace{2em}
-
-\renewcommand{\arraystretch}{1.5}
-\begin{tabular}{p{1.3cm}p{6cm}p{6cm}p{5cm}}
+\vspace{1.3cm}
+\renewcommand{\arraystretch}{2}
+\hspace*{-2cm}
+\begin{tabular}{p{2cm}p{7cm}p{7cm}p{6cm}}
 \toprule
 & \textbf{Monday} & \textbf{Tuesday}& \textbf{Wednesday}\\
 \midrule
-12-14 & Python Pre-Course & & \\[1em]
+\textbf{12-14} & Python Pre-Course & & \\[1em]
 
 \rowcolor{gray} 
-	14-16 & 
+	\textbf{14-16} & 
 		Welcome \vspace{1em} \newline
-		Intro to Topology in Data Analysis\newline
+		Intro to Topology in \newline Data Analysis \vspace{0.5em} \newline
 		Overview scikit-tda \vspace{1em} \newline
 		Mapper \newline 
 		& 
@@ -58,7 +55,7 @@ The course takes place in the CIP pool (2.xxx) in Mathematikon. \\
 		&
 		Project \\
 	
-	16-18 & 
+	\textbf{16-18} & 
 	Tutorials & 
 	Tutorials & 
 	Project \\
