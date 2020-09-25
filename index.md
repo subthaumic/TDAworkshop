@@ -1,7 +1,4 @@
-# Home
-
-Python Course on Topological Methods in Data Analysis
-October 26th - 28th, 2020 | Heidelberg University
+In this twelve-hour workshop the participant will be introduced to the main techniques utilized in topological data analysis and their mathematical background. Introductions to the Mapper algorithm and persistent homology will be succeeded by respective hands-on tutorial sessions. The workshop will conclude with an exploratory project of these methods on 'real data', which can be provided by the participants.
 
 
 ## Registration
@@ -9,7 +6,11 @@ Register [here](https://forms.gle/43vsBjNM1M4LffvA9)
 
 
 ## Corona Regulations / Format
-Some explanations:
+This course will be held in an on-site/online hybrid form.
+There are up to 20 seats for on-site participation, which will be distributed in advance.
+
+The on-site course takes place in the CIP-Pool 2.105, Mathematikon INF 205, Heidelberg.
+Participants need to wear masks
 
 >fester Sitzplan an,
 >der zwingend einzuhalten ist. Gleiches gilt auch für die Regelung
@@ -24,13 +25,13 @@ Some explanations:
 - of files
 
 ## Schedule
-on an extra site? ... would need navigation menu ... Adjust fontsize in PDF slightly, add/remove details in schedule?
+Adjust fontsize in PDF slightly, add/remove details in schedule?
 
-<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="1024" height="800" frameborder="0" marginheight="0" marginwidth="0">
+<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="800" height="700" frameborder="0" marginheight="0" marginwidth="0">
 ...Loading...
 </iframe>
 
-[Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
+Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 
 
 ## Material and Exercises
