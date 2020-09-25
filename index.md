@@ -22,8 +22,8 @@ Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 ## Corona Regulations
 Please note the following information regarding on-site participation:
 
-* On-site participants will need to provide personal data for contact tracking at the beginning of the course\
-* Please wear a mask when moving around; the mask can be removed when seated.\
+* On-site participants will need to provide personal data for contact tracking at the beginning of the course
+* Please wear a mask when moving around; the mask can be removed when seated.
 * Since we will need to regularly ventilate the room, you might want to bring a sweater.
 
 Official documents:\
