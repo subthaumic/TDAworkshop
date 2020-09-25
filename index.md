@@ -30,10 +30,8 @@ Please note the following rules of conduct for on-site participation:
 
 You can find the official documents here:
 
-[Conditions of Admission and Participation](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Zutritts_und_Teilnahmeregelungen_Aushang_A3_EN_2020-08-11.pdf)
-
-[Information on the Processing of Personal Data](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Datenschutzinformationen_Aushang_A3_EN_2020-08-11.pdf)
-
+[Conditions of Admission and Participation](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Zutritts_und_Teilnahmeregelungen_Aushang_A3_EN_2020-08-11.pdf)\
+[Information on the Processing of Personal Data](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Datenschutzinformationen_Aushang_A3_EN_2020-08-11.pdf)\
 [Information Required from Persons Attending Classes](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Datenerhebung_Veranstaltungsteilnehmer_A4_EN_2020-08-11_1.pdf)
 
 ## Material and Exercises
