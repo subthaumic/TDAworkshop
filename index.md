@@ -27,7 +27,7 @@ Participants need to wear masks
 ## Schedule
 Adjust fontsize in PDF slightly, add/remove details in schedule?
 
-<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="800" height="700" frameborder="0" marginheight="0" marginwidth="0">
+<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="600" frameborder="0" marginheight="0" marginwidth="0">
 ...Loading...
 </iframe>
 
