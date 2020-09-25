@@ -18,20 +18,20 @@ Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 The course will take place in an on-site/online hybrid form.
 There are up to 20 seats for on-site participation, which will be distributed in advance.
 
-The on-site course takes place in the CIP-Pool 2.105, Mathematikon INF 205, Heidelberg.
+The course takes place in the CIP-Pool 2.105, Mathematikon INF 205, Heidelberg.
 
->fester Sitzplan an,
->der zwingend einzuhalten ist. Gleiches gilt auch für die Regelung
->der Ein- und Ausgänge.
->Bitte stellen Sie am Eingang Desinfektionsmittel zur Verfügung.
->Wenn sich die Teilnehmer im Raum bewegen, muss Maske getragen werden.
->Wenn sie sitzen, kann die Maske abgenommen werden.
+Lectures and breakout rooms during the tutorials will be accessible on Zoom.
 
->Bitte setzen sie alle Teilnehmer immer an den gleichen Platz.
+Please note the following rules of conduct for on-site participation:
+- Please wear a mask when moving around; the mask can be removed when seated.
+- There will be a seating plan
+- On-site participants will need to provide personal data for contact tracking 
+- Since we will need to regularly ventilate the room, you might want to bring a sweater.
 
-- and a list
-- of files
-
+You can find the official documents here:
+[](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Zutritts_und_Teilnahmeregelungen_Aushang_A3_EN_2020-08-11.pdf)
+[](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Datenschutzinformationen_Aushang_A3_EN_2020-08-11.pdf)
+[](https://backend-484.uni-heidelberg.de/sites/default/files/documents/2020-08/Datenerhebung_Veranstaltungsteilnehmer_A4_EN_2020-08-11_1.pdf)
 
 ## Material and Exercises
 put this on an extra site! ... need navigation menu
