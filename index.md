@@ -1,15 +1,15 @@
 In this twelve-hour workshop the participant will be introduced to the main techniques utilized in topological data analysis and their implementation provided by the python package [scikit-tda](https://scikit-tda.org/).
 Introductions to the Mapper algorithm and persistent homology will be complemented by respective hands-on tutorial sessions.
-The workshop will conclude with an exploratory project of these methods on 'real data', which can be provided by the participants.
+The workshop will conclude with an exploratory project of these methods on 'real data', which may be provided by the participants.
 
-## Registration
 
+## Participation
 The course takes place in the CIP-Pool 2.105, Mathematikon INF 205, Heidelberg.
 There are up to 20 seats for on-site participation, which will be distributed in advance.
 
 Lectures and tutorials will be accessible on Zoom for online participants.
 
-[Register here](https://forms.gle/43vsBjNM1M4LffvA9)
+[Register now.](https://forms.gle/43vsBjNM1M4LffvA9)
 
 ## Schedule
 <iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">
@@ -22,9 +22,10 @@ Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 ## Corona Regulations
 
 Please note the following rules of conduct for on-site participation:
+* 
   - Please wear a mask when moving around; the mask can be removed when seated.
   - There will be a seating plan
-  - On-site participants will need to provide personal data for contact tracking
+  - On-site participants will need to provide personal data for contact tracking at the beginning of the course
   - Since we will need to regularly ventilate the room, you might want to bring a sweater.
 
 You can find the official documents here:
