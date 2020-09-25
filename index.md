@@ -1,5 +1,9 @@
 # Home
 
+Python Course on Topological Methods in Data Analysis
+October 26th - 28th, 2020 | Heidelberg University
+
+
 ## Registration
 Register [here](https://forms.gle/43vsBjNM1M4LffvA9)
 
