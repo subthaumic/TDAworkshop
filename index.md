@@ -11,6 +11,8 @@ Lectures and tutorials will be accessible on Zoom for online participants.
 
 [Register now.](https://forms.gle/43vsBjNM1M4LffvA9)
 
+Registration Deadline: October 11th, 2020
+
 ## Schedule
 <iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="680" height="500" frameborder="0" marginheight="0" marginwidth="0">
 ...Loading Schedule...
