@@ -39,6 +39,9 @@ Official documents:\
 ## Material and Exercises
 TBA
 
+## Organizers
+Michael Bleher, Maximilian Schmahl, Daniel Spitz
 
+contact: mbleher@mathi.uni-heidelberg.de
 
 ![logo](assets/images/STRUCTURES_bunt.png)
