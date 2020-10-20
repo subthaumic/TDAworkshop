@@ -4,7 +4,7 @@ The workshop will conclude with an exploratory project of these methods on 'real
 
 
 ## Participation
-The course takes place in the CIP-Pool 2.105, Mathematikon INF 205, Heidelberg.
+The course takes place in the CIP-Pool 3/103, Mathematikon INF 205, Heidelberg.
 There are up to 20 seats for on-site participation, which will be distributed in advance.
 
 Lectures and tutorials will be accessible on Zoom for online participants.
@@ -24,8 +24,8 @@ Or Download here: [Schedule]({{ site.baseurl }}/assets/files/Schedule.pdf)
 ## Corona Regulations
 Please note the following information regarding on-site participation:
 
-* On-site participants will need to provide personal data for contact tracking at the beginning of the course
-* Please wear a mask when moving around; the mask can be removed when seated.
+* On-site participants will need to provide personal data for contact tracking at the beginning of each day.
+* Participants will need to wear a mask at all times ([CoronaVO Studienbetrieb und Kunst § 3, Absatz 1, Nummer 4](https://www.baden-wuerttemberg.de/en/service/aktuelle-infos-zu-corona/uebersicht-corona-verordnungen/coronavo-studienbetrieb-und-kunst/).
 * Since we will need to regularly ventilate the room, you might want to bring a sweater.
 
 Official documents:\
