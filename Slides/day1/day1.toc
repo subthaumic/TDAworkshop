@@ -1,0 +1,3 @@
+\beamer@sectionintoc {2}{Topology in Data Analysis}{3}{0}{1}
+\beamer@sectionintoc {3}{Overview scikit-tda}{8}{0}{2}
+\beamer@sectionintoc {4}{The Mapper Algorithm}{10}{0}{3}
