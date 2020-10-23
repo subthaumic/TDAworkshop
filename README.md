@@ -25,10 +25,6 @@
 
 ## Sonstiges
 
-### Räume
-CIP Pool Mathematikon & Zoom
-
-
 ### Datasets
 Daniel fragt bei Prof. Kees und Prof. Dullemond nach möglichen Testdaten für den 3. Workshop-Nachmittag nach. Andernfalls werden für diejenigen Teilnehmer ohne eigene Testdaten CMB-Daten inkl. Gaußscher Modell-Daten für den Vergleich beschafft (Planck Collab. etc.).
 
@@ -41,21 +37,3 @@ Anna schlägt außerdem MNIST vor.
 
 ### Übungszettel
 Übungszettel für die Tutorials werden im Oktober gemeinsam erstellt.
-
-
-### Zertifikate-Text (noch einmal durchsehen!)
-    In this twelve-hour workshop the
-    participant has been introduced to the most
-    important topological data analysis techniques
-    and their mathematical background. Introductions
-    to the Mapper algorithm and in particular
-    persistent homology have been succeeded by
-    respective hands-on tutorial sessions. The
-    workshop concluded with comprehensive
-    explorative data analysis projects followed by
-    each participant, individually. In the workshop
-    the participant has demonstrated his or her
-    ability to both describe and employ the Mapper
-    algorithm as well as persistent homology
-    techniques in an explorative research
-    environment.
