@@ -6,9 +6,9 @@
 	\setlength{\parskip}{\smallskipamount} 
 
 \usepackage{listings}
+\usepackage{tikz}
 
 \title{
-%\includegraphics[scale = 0.18]{Figs/Topological-Data-Illustration.jpg}\\
 \tiny{add some nice picture and/or structures, uni logos} \\
 \vspace{0.3cm}
 \Large{Topological Data Analysis in Python}}
@@ -17,7 +17,14 @@
 \institute{Heidelberg University}
 
 \begin{document}
+
+\frame[plain]{
+\tikz[remember picture,overlay]{
+	\path (0,0) -- (0.5,0) node {\includegraphics[width=2cm,height=2cm,keepaspectratio]{../../Offizielles/STRUCTURES_bunt.png}};
+	\path (0,0) -- (2,0) node {\includegraphics[width=2cm,height=2cm,keepaspectratio]{../../Offizielles/hd_logo_standard_16cm_rgb.png}};
+	}
 \titlepage
+}
 
 \AtBeginSection[]
 {
@@ -204,10 +211,13 @@ Test
 first slide:
 short look at Data
 
-second slide:
-top	used code
+second slide top: code
+second slide bottom: resulting graph
 
-bottom resulting graph
+maybe several instances with different filter, cover, metric ...
+
+
+
 \end{frame}
 
 

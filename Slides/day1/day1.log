@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.12.9)  23 OCT 2020 09:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.12.9)  23 OCT 2020 10:43
 entering extended mode
 **./day1.tex
 (day1.tex
@@ -669,6 +669,75 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box57
+)
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen193
+\pgf@nodesepend=\dimen194
+)
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgffor.sty
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen195
+\pgffor@skip=\dimen196
+\pgffor@stack=\toks44
+\pgffor@toks=\toks45
+))
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count165
+\pgfplotmarksize=\dimen197
+)
+\tikz@lastx=\dimen198
+\tikz@lasty=\dimen199
+\tikz@lastxsaved=\dimen256
+\tikz@lastysaved=\dimen257
+\tikz@lastmovetox=\dimen258
+\tikz@lastmovetoy=\dimen259
+\tikzleveldistance=\dimen260
+\tikzsiblingdistance=\dimen261
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count166
+\tikznumberofchildren=\count167
+\tikznumberofcurrentchild=\count168
+\tikz@fig@count=\count169
+
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count170
+\pgfmatrixcurrentcolumn=\count171
+\pgf@matrix@numberofcolumns=\count172
+)
+\tikz@expandcount=\count173
+
+(C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 16.
@@ -731,17 +800,17 @@ LaTeX Font Info:    ... okay on input line 19.
 
 (C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count165
-\scratchdimen=\dimen193
-\scratchbox=\box57
-\nofMPsegments=\count166
-\nofMParguments=\count167
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count168
-\MPscratchDim=\dimen194
-\MPnumerator=\count169
-\makeMPintoPDFobject=\count170
-\everyMPtoPDFconversion=\toks45
+\scratchcounter=\count174
+\scratchdimen=\dimen262
+\scratchbox=\box62
+\nofMPsegments=\count175
+\nofMParguments=\count176
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen263
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
+\everyMPtoPDFconversion=\toks47
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -753,7 +822,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box58
+\AtBeginShipoutBox=\box63
 Package hyperref Info: Link coloring OFF on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
@@ -765,7 +834,7 @@ Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count171
+\c@section@level=\count180
 )
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
@@ -842,7 +911,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\Micha\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@lstlisting=\count172
+\c@lstlisting=\count181
  (day1.nav)
 LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
 
@@ -862,14 +931,22 @@ Overfull \hbox (1.41669pt too wide) detected at line 19
 []  
  []
 
-(day1.toc) [1
+<../../Offizielles/STRUCTURES_bunt.png, id=16, 220.825pt x 141.52875pt>
+File: ../../Offizielles/STRUCTURES_bunt.png Graphic file (type png)
+<use ../../Offizielles/STRUCTURES_bunt.png>
+Package pdftex.def Info: ../../Offizielles/STRUCTURES_bunt.png  used on input line 27.
+(pdftex.def)             Requested size: 56.90434pt x 36.4705pt.
+<../../Offizielles/hd_logo_standard_16cm_rgb.png, id=18, 455.301pt x 238.7319pt>
+File: ../../Offizielles/hd_logo_standard_16cm_rgb.png Graphic file (type png)
+<use ../../Offizielles/hd_logo_standard_16cm_rgb.png>
+Package pdftex.def Info: ../../Offizielles/hd_logo_standard_16cm_rgb.png  used on input line 27.
+(pdftex.def)             Requested size: 56.90553pt x 29.83777pt.
+[1
 
-{C:/Users/Micha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (1.41669pt too wide) has occurred while \output is active
-[]  
- []
+{C:/Users/Micha/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../../Offizielles/STRUCTURES_bunt.png> <../../Offizi
+elles/hd_logo_standard_16cm_rgb.png>] (day1.toc) [2
 
-[2] (day1.toc)
+] (day1.toc)
 Overfull \hbox (1.41669pt too wide) has occurred while \output is active
 []  
  []
@@ -1024,19 +1101,19 @@ Overfull \hbox (1.41669pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `day1.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
  (day1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
 Package rerunfilecheck Info: File `day1.out' has not changed.
 (rerunfilecheck)             Checksum: D370DF1D59A7A12622333A1623E1B24F;43.
  ) 
 Here is how much of TeX's memory you used:
- 19647 strings out of 492453
- 364726 string characters out of 3129820
- 619750 words of memory out of 3000000
- 23493 multiletter control sequences out of 15000+200000
+ 22676 strings out of 492453
+ 436385 string characters out of 3129820
+ 686451 words of memory out of 3000000
+ 26465 multiletter control sequences out of 15000+200000
  14772 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,17n,67p,820b,1277s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1046,9 +1123,9 @@ Here is how much of TeX's memory you used:
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on day1.pdf (22 pages, 118098 bytes).
+Output written on day1.pdf (22 pages, 678311 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
+ 211 PDF objects out of 1000 (max. 8388607)
  50 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
