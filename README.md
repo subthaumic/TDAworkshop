@@ -18,6 +18,9 @@
 - [ ] MNIST Database für TDA tauglich?
 - [ ] Übungen erstellen
 - [ ] Vortrag/Slides erstellen
+- [ ] Repo für Teilnehmer vorbereiten
+- [ ] Slides und Übungen auf Website verlinken
+- [ ] Link zu Repo auf Website
 
 
 ## Sonstiges
