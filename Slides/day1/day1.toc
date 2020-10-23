@@ -1,4 +1,0 @@
-\beamer@sectionintoc {2}{Programme}{3}{0}{1}
-\beamer@sectionintoc {3}{Topology in Data Analysis}{7}{0}{2}
-\beamer@sectionintoc {4}{The Mapper Algorithm}{15}{0}{3}
-\beamer@sectionintoc {5}{Kepler Mapper}{20}{0}{4}
