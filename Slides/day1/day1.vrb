@@ -1,0 +1,12 @@
+\frametitle{Kepler Mapper}
+Test
+\begin{lstlisting}[backgroundcolor = \color{bg!90!fg},
+                   language = python,
+                   xleftmargin = 1cm,
+									]
+	import kmapper
+	
+	data = some_way_to_load_data()
+	
+	kmapper(data, filter, bins)
+\end{lstlisting}

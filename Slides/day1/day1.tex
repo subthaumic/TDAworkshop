@@ -5,9 +5,11 @@
 \usepackage{parskip}
 	\setlength{\parskip}{\smallskipamount} 
 
+\usepackage{listings}
 
 \title{
 %\includegraphics[scale = 0.18]{Figs/Topological-Data-Illustration.jpg}\\
+\tiny{add some nice picture and/or structures, uni logos} \\
 \vspace{0.3cm}
 \Large{Topological Data Analysis in Python}}
 \date{26\textsuperscript{th} - 28\textsuperscript{th} of October 2020}
@@ -41,64 +43,176 @@
 \end{frame}
 
 
-\section{Programme}
-\begin{frame}{Programme}
 
+
+\section{Programme}
+
+\begin{frame}{Programme}
+?
 \end{frame}
 
 
+\begin{frame}{scikit-tda}
+scikit-tda Libraries
+\begin{itemize}
+	\item Ripser.py
+  \item Kepler Mapper
+  \item Persim
+  \item CechMate
+  \item TaDAsets
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+copy scikit-tda slide, but insert schedule and highlight \& encircle the parts and when we will cover them
+\end{frame}
+
+
+
+
 \section{Topology in Data Analysis}
+
 \begin{frame}{Topology}
 Topology is the field of mathematics that studies shapes.
 
 Topology is ``blind'' to continuous deformations.
 
-(obligatory pictures: interval, circle, sphere, punctured sphere, torus, coffee cup)
-\end{frame}
-
-\begin{frame}{Topology}
-
-\end{frame}
-
-\begin{frame}{Topology}
-
-\end{frame}
-
-\begin{frame}{Topology}
-
+add obligatory pictures and examples that give intuition of homotopy equivalence (interval, circle, sphere, punctured sphere, torus, coffee cup)
 \end{frame}
 
 
+\begin{frame}{Königsberg Problem}
+``counting holes'' as a way to distinguish topological spaces
+$V-E+F = 2$
+introduce Graphs for later convenience
+\end{frame}
 
-\section{Overview scikit-tda}
-\begin{frame}{Overview scikit-tda}
 
-Libraries:
+\begin{frame}{Data}
+Data = points in $\mathbb{R}^n$
+
+Challenges of data science: size, complexity, curse of dimensionality
+\end{frame}
+
+
+\begin{frame}{Topology in Data?}
+points are not continuous!
+
+$\mathbb{R}^n$ has no interesting topology!
+
+$\rightarrow$ where is the topology?
+\end{frame}
+
+
+\begin{frame}{Topology in Data}
+pictures like the ones from carlsson's talk 
+
+(regression, clusters, loops, bifurcations)
+\end{frame}
+
+
+\begin{frame}{Topology in Data}
+noisy $S^1$, noisy pictures from MNIST or house numbers
+
+$\rightarrow$ would like to have ways to extract these topological properties from the data
+\end{frame}
+
+
+\begin{frame}{Topological Data Analysis}
 \begin{itemize}
-	\item Ripser
-	\item Kepler Mapper
-	\item Persim
-	\item CechMate
-	\item TaDAsets
+	\item A lossy compressed mathematical representation of a data set. You can study the global structure of a dataset, down to the details of a single data point, without incurring a cognitive overload.
+	\item Resistance to noise and missing data. TDA retains significant features of the data.
+	\item Invariance. Only connectedness matters. The skew, size, or orientation of data does not fundamentally change that data.
+	\item A data exploration tool. Get answers to questions you haven’t even asked yet.
+  \item A methodology to study the shape of data and manifolds. TDA has a solid theoretical foundation and inherits functoriality.
 \end{itemize}
-
-\vfill
-see: \url{https://scikit-tda.org/}
 \end{frame}
-
-
 
 
 
 
 \section{The Mapper Algorithm}
 
-\begin{frame}
+\begin{frame}{Intro}
+Recall pictures from ``The Shape of Data''
+\end{frame}
 
+
+\begin{frame}{Königsberg Problem (revisited)}
+sth. about traveling salesman, distances, ...
+
+such that the setup of Königsberg corresponds to a point cloud where the mapper network is interesting?
+
+idea: prepare people for mapper with the following analogy
+
+Bridges = ways to go from one part of the city to another
+Edges = overlap
+\end{frame}
+
+
+\begin{frame}{Mapper}
+The Mapper Algorithm (show items iteratively)
+\begin{enumerate}
+	\item Project(Filter dependency!)
+	\item Cover (Cover dependency!)
+	\item Clustering (metric dependeny!)
+	\item Graph 
+	\begin{itemize}
+		\item For each \textbf{cluster} draw a \textbf{node}
+		\item Whenever clusters \textbf{interesect} draw an \textbf{edge}
+	\end{itemize}
+	\item Prettify and Analyze
+	%\begin{itemize}
+		%\item Size the graph nodes by a function of interest (for instance: number of members inside cluster)
+		%\item Color the graph nodes by a function of interest (for instance: average customer spend)
+		%\item Shape the graph nodes by a function of interest (for instance: squares for avg_timestamp < 2015, circles for avg_timestamp >= 2015)
+		%\item Size the graph edges by a function of interest (for instance: number of intersecting members between nodes)
+		%\item Color the graph edges by a function of interest (for instance: average color of connected nodes)
+		%\item Shape the graph edges by a function of interest (for instance: dotted line when intersecting members < 3 else solid line)
+		%\item Provide descriptive statistics on the nodes and the graph. (for instance: Kolmogorov–Smirnov test between node variables and dataset variables.
+	%\end{itemize}
+\end{enumerate}
+Pictures corresponding to the steps
+\end{frame}
+
+
+\begin{frame}{Examples}
+some more examples to get a better feeling
+also hint at or state exercises
+\end{frame}
+
+
+\section{Kepler Mapper}
+
+\begin{frame}[fragile]{Kepler Mapper}
+Test
+\begin{lstlisting}[backgroundcolor = \color{bg!90!fg},
+                   language = python,
+                   xleftmargin = 1cm,
+									]
+	import kmapper
+	
+	data = some_way_to_load_data()
+	
+	kmapper(data, filter, bins)
+\end{lstlisting}
+\end{frame}
+
+
+\begin{frame}{kmapper example}
+first slide:
+short look at Data
+
+second slide:
+top	used code
+
+bottom resulting graph
 \end{frame}
 
 
 
 
-\end{document}
 
+
+\end{document}
