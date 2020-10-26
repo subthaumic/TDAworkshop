@@ -1,0 +1,11 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.tmp
