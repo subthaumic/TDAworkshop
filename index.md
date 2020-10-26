@@ -38,8 +38,8 @@ Official documents:\
 
 
 ## Material and Exercises
-### Day 1
-[Slides]({{ site.baseurl }}/assets/files/Slides_day1.pdf)
+#### Day 1
+[Slides]({{ site.baseurl }}/assets/files/Slides_day1.pdf)\
 [Exercises]({{ site.baseurl }}/assets/files/exercises1.pdf)
 
 ## Organizers
