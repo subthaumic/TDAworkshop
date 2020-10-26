@@ -38,7 +38,9 @@ Official documents:\
 
 
 ## Material and Exercises
-TBA
+### Day 1
+[Slides]({{ site.baseurl }}/assets/files/Slides_day1.pdf)
+[Exercises]({{ site.baseurl }}/assets/files/exercises1.pdf)
 
 ## Organizers
 Michael Bleher, Maximilian Schmahl, Daniel Spitz
