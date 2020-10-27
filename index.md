@@ -42,6 +42,10 @@ Official documents:\
 [Slides]({{ site.baseurl }}/assets/files/Slides_day1.pdf)\
 [Exercises]({{ site.baseurl }}/assets/files/exercises1.pdf)
 
+#### Day 2
+[Slides]({{ site.baseurl }}/assets/files/Slides_day2.pdf)\
+[Exercises]({{ site.baseurl }}/assets/files/exercises2.pdf)
+
 ## Organizers
 Michael Bleher, Maximilian Schmahl, Daniel Spitz
 
