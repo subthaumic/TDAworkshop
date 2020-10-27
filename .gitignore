@@ -9,3 +9,4 @@
 *.toc
 *.vrb
 *.tmp
+__pycache__
