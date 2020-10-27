@@ -3,7 +3,3 @@ In this twelve-hour workshop the participant will be introduced to the main tech
 
 On this branch of the repo you will find all material that was used for this course.
 In particular, we here collect datasets that are used during the course.
-
-# Datasets
-
-TBA
