@@ -52,7 +52,7 @@ Official documents:\
 [Slides]({{ site.baseurl }}/assets/files/Slides_day3.pdf)\
 [Project Descriptions]({{ site.baseurl }}/assets/files/project_descriptions.pdf)
 
-##### Misc
+###### Note
 You can find example code for the exercises of the first two days [here](https://github.com/micbl/TDAworkshop/tree/main/Exercises) (in construction)
 
 
