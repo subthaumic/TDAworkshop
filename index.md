@@ -40,7 +40,7 @@ Official documents:\
 ## Material and Exercises
 #### Day 1
 [Slides]({{ site.baseurl }}/assets/files/Slides_day1.pdf)\
-[Exercises]({{ site.baseurl }}/assets/files/exercises1.pdf)
+[Exercises]({{ site.baseurl }}/assets/files/exercises1.pdf) (last updated: Oct 28th)
 
 #### Day 2
 [Slides]({{ site.baseurl }}/assets/files/Slides_day2.pdf)\
