@@ -46,6 +46,13 @@ Official documents:\
 [Slides]({{ site.baseurl }}/assets/files/Slides_day2.pdf)\
 [Exercises]({{ site.baseurl }}/assets/files/exercises2.pdf)
 
+[Slides (Sebastian Damrich)](https://docs.google.com/presentation/d/1nJHmc0ociNiNZIHs8UnamDCq5lmPb9oai13XJ0ss8sA/edit#slide=id.p)
+
+#### Day 3
+[Slides]({{ site.baseurl }}/assets/files/Slides_day3.pdf)\
+[Project Descriptions]({{ site.baseurl }}/assets/files/project_descriptions.pdf)
+
+
 ## Organizers
 Michael Bleher, Maximilian Schmahl, Daniel Spitz
 
