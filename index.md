@@ -9,9 +9,10 @@ There are up to 20 seats for on-site participation, which will be distributed in
 
 Lectures and tutorials will be accessible on Zoom for online participants.
 
-[Register now.](https://forms.gle/43vsBjNM1M4LffvA9)
-
 Registration Deadline: October 11th, 2020
+
+Registration is closed
+
 
 ## Schedule
 <iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="680" height="500" frameborder="0" marginheight="0" marginwidth="0">
@@ -53,7 +54,7 @@ Official documents:\
 [Project Descriptions]({{ site.baseurl }}/assets/files/project_descriptions.pdf)
 
 ###### Note
-You can find example code for the exercises of the first two days [here](https://github.com/micbl/TDAworkshop/tree/main/Exercises) (in construction)
+You can find some example code for the exercises of the first two days [here](https://github.com/micbl/TDAworkshop/tree/main/Exercises)
 
 
 ## Organizers
