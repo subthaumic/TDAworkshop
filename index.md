@@ -15,7 +15,7 @@ Registration is closed
 
 
 ## Schedule
-<iframe src="https://micbl.github.io/TDAworkshop/assets/files/Schedule.pdf" width="680" height="500" frameborder="0" marginheight="0" marginwidth="0">
+<iframe src="https://subthaumic.github.io/TDAworkshop/assets/files/Schedule.pdf" width="680" height="500" frameborder="0" marginheight="0" marginwidth="0">
 ...Loading Schedule...
 </iframe>
 
